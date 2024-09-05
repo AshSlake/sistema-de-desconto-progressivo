@@ -5,8 +5,6 @@
 <h3 aling = "left"> 
 Você foi contratado para desenvolver um programa que implemente um sistema de desconto progressivo para uma loja online. Este sistema deve aplicar descontos de acordo com o valor total da compra. As regras de desconto são as seguintes:
 
-<\n>
-
 ## Se o valor total da compra for menor do que R$ 200,00, o cliente recebe um desconto de 5%.
 ## Se o valor total da compra for maior ou igual a R$ 200,00 e menor que R$ 300,00, o cliente recebe um desconto de 10%.
 ## Se o valor total da compra for maior ou igual a R$ 300,00, o cliente recebe um desconto de 15%.
