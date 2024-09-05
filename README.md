@@ -2,7 +2,7 @@
 
 <h1 align="center"> Programa de Desconto Progressivo - Desenvolvido para Agenda #5 da Etec- Desenvolvimento de Sistemas</h1>
 
-<h1 aling = "left"> 
+<h3 aling = "left"> 
 Você foi contratado para desenvolver um programa que implemente um sistema de desconto progressivo para uma loja online. Este sistema deve aplicar descontos de acordo com o valor total da compra. As regras de desconto são as seguintes:
 
 ##
@@ -11,7 +11,7 @@ Você foi contratado para desenvolver um programa que implemente um sistema de d
  - Se o valor total da compra for maior ou igual a R$ 300,00, o cliente recebe um desconto de 15%.
  - Escreva um programa em Java que solicite ao usuário que insira o valor total da compra e, em seguida, calcule e exiba o valor do desconto a ser aplicado e o valor total a ser pago pelo cliente após o desconto.
 
-</h1>
+</h3>
 
 <h3 align="left">Linguagens utilizadas no projeto:</h3>
 <p align="left">
